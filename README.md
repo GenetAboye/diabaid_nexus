@@ -49,12 +49,6 @@ Journal of Medical Internet Research, 28, e87110.
 
 https://doi.org/10.2196/87110
 
-## Author
-
-Genet Tadese Aboye, PhD  
-Assistant Professor  
-School of Biomedical Engineering  
-Jimma University, Ethiopia
 
 ## Research Areas
 
